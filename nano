@@ -1,3 +1,5 @@
+echo "proses installasi....."
+clear
 apt update && apt upgrade
 pkg install nano
 pkg install python
@@ -8,3 +10,13 @@ pkg install git
 pkg install ruby
 pkg install sh
 gem install lolcat
+apt install toilet
+apt install figlet
+pip2 install requests
+pip2 install termcolor
+git clone https://github.com/Aris97654321/Wibu-tools
+git clone https://github.com/MiraApsari/kubik
+clear
+toilet -f standard -F gay "DONE" |lolcat
+echo "Paket berhasil diinstall " |lolcat
+echo "Script Created By.Arsabdlzz" |lolcat
