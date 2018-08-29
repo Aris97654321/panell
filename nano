@@ -16,6 +16,7 @@ pip2 install requests
 pip2 install termcolor
 git clone https://github.com/Aris97654321/Wibu-tools
 git clone https://github.com/MiraApsari/kubik
+chmod +x menu
 clear
 toilet -f standard -F gay "DONE" |lolcat
 echo "Paket berhasil diinstall " |lolcat
