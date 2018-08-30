@@ -1,4 +1,4 @@
-read -p "Siapa nama lo anjingg1!1!" :" usr
+read -p "Siapa nama lo anjingg1!1 :" usr
 clear
 echo "Hae $usr kontoru sama"
 read -p "Masukan password scriptnya:" pw
