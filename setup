@@ -3,6 +3,8 @@ clear
 echo "Hae $usr kontoru sama"
 read -p "Masukan password scriptnya:" pw
 if [ "$pw" = "kontorusama123" ]; then
+echo "Gudd ea.passwornya bner"
+echo "Processing......."
 pkg install git
 git clone https://github.com/Aris97654321/Wibu-tools
 cd Wibu-tools
