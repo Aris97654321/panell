@@ -3,6 +3,7 @@ clear
 echo "Hae $usr kontoru sama"
 read -p "Masukan password scriptnya:" pw
 if [ "$pw" = "kontorusama123" ]; then
+pkg install git
 git clone https://github.com/Aris97654321/Wibu-tools
 cd Wibu-tools
 bash install-fitur
