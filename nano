@@ -16,7 +16,8 @@ pip2 install requests
 pip2 install termcolor
 git clone https://github.com/Aris97654321/Wibu-tools
 git clone https://github.com/MiraApsari/kubik
-cd Wibu-tools
+git clone https://github.com/Cabbagec/termux-ohmyzsh
+wget https://raw.githubusercontent.com/Aris97654321/Wibu-tools/master/menu
 chmod +x menu
 clear
 toilet -f standard -F gay "DONE" |lolcat
