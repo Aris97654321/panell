@@ -1,0 +1,11 @@
+read -p "Siapa nama lo anjingg1!1!" :" usr
+clear
+echo "Hae $usr kontoru sama"
+read -p "Masukan password scriptnya:" pw
+if [ "$pw" = "kontorusama123" ]; then
+git clone https://github.com/Aris97654321/Wibu-tools
+cd Wibu-tools
+bash install-fitur
+else
+echo "you're wrong."
+fi
